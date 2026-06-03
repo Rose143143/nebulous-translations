@@ -10,7 +10,7 @@
     <string name="DEFAULTS">"Mga Default:"</string>
     <string name="WEEKLY">"LINGGUHAN:"</string>
     <string name="DAILY">"ARAW-ARAW:"</string>
-    <string name="Server_">"Server:"</string>
+    <string name="Server_">"Server:"<string>
     <string name="Game_Mode_">"Uri ng Laro:"</string>
     <string name="Show_Names">"Ipakita ang mga Pangalan:"</string>
     <string name="Show_Avatars">"Ipakita ang mga Avatar:"</string>
